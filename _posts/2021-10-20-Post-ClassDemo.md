@@ -13,9 +13,10 @@ Today, *Hello, World!* remains a symbolic and practical starting point for progr
 
 ---
 
-**Source:** *Wikipedia – “Hello, World!”*  
-**Author:** Multiple contributors  
-**Link:** https://en.wikipedia.org/wiki/%22Hello%2C_World%21%22_program
+**Source:** Wikipedia  
+**Article:** “Hello, World!” program  
+**Author:** Wikipedia contributors  
+**Reference:** [View the original article](https://en.wikipedia.org/wiki/%22Hello%2C_World%21%22_program)
 
 ---
 
