@@ -20,7 +20,7 @@ Today, *Hello, World!* remains a symbolic and practical starting point for progr
 
 ---
 
-![Hello World Image](../assets/images/Hello-Wold.jpg "Hello World")
+![Hello World Image](../assets/images/1.jpg "Hello World")
 
 ---
 **Test:** This is a test
