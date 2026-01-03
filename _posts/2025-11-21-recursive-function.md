@@ -34,4 +34,4 @@ The final image is created by combining recursive drawing with randomness, resul
 
 ## Acknowledgment
 
-I would like to express my sincere thanks to **Professor Etemadi** and **Professor Haji Hosseini** for their guidance and support.
+I would like to express my sincere thanks to **Professor Etemadi** and **Haji Hosseini** for their guidance and support.
