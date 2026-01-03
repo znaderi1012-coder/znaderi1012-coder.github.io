@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  #username               : Naderi_zahraaa
+  #username               : 
 facebook:
-  #username               : Naderi_zahraaa
+  #username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,7 +112,7 @@ author:
   bio              : Student of CE
   location         : "Iran, Tehran"
   email            : znaderi1012@gmail.com
-  #twitter: Naderi_zahra
+  #twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: znaderi1012-coder
