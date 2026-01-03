@@ -3,6 +3,11 @@ layout: posts
 title: "Hello World"
 ---
 
+
+![Hello World Image](../assets/images/Hello-World.jpg "Hello World")
+
+---
+
 ## The History and Purpose of *Hello, World!*
 
 The *Hello, World!* program is a simple computer program that displays the message “Hello, World!” on the screen. It is traditionally used as the first example when learning a new programming language because of its simplicity and clarity. This program helps learners verify that their development environment is correctly installed and that they understand the basic process of writing and running code.:contentReference[oaicite:0]{index=0}
