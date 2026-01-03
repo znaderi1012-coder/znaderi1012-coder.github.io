@@ -112,18 +112,18 @@ author:
   bio              : Student of CE
   location         : "Iran, Tehran"
   email            : znaderi1012@gmail.com
-  twitter: Naderi_zahra
+  #twitter: Naderi_zahra
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: znaderi1012-coder
-  instagram: Zahra
+  #instagram: Zahra
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:znaderi1012@gmail.com
+      #url: mailto:znaderi1012@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://znaderi1012-coder.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
