@@ -9,8 +9,8 @@ comments: true
 ---
 
 ### classmates
-* حنانه سادات سجادی
-* فاطمه احمدی
+* Hannane Sadat Sajadi
+* [Fateme Ahmadi](https://afa-ahmadi.github.io/afa.website/index.html)
 
 
 
