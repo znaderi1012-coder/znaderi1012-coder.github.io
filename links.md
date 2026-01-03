@@ -4,13 +4,12 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 04-01-2026
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite platform](https://www.pinterest.com/)
+* [My home city](https://en.wikipedia.org/wiki/Tehran)
+* [My university](https://www.iust.ac.ir/en)
 
