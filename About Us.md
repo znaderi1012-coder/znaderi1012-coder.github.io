@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends
+title: About Us
 tags: [friends]
 modified: 04-01-2026
 comments: true
